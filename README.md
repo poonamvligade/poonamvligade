@@ -1,5 +1,5 @@
 ### Hi there! I'm Poonam 👋 :woman_technologist:
-
+I am a mother of 5yo and a computer professional.
 
 - 🔭 I’m currently working on making AI accessible and affordable to masses at [Jarvislabs.ai](https://jarvislabs.ai/).
 - 🌱 I’m currently learning MLops (How to put ML in production)
