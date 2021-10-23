@@ -6,4 +6,4 @@ I am a mother of 5yo and a computer professional.
 - 💬 Ask me about deep learning, react.js(frontend stack)
 - 📝 I blog [here](https://poonamvligade.github.io/).
 - 📫 Follow me on [Twitter](https://twitter.com/Poonamligade) | [Linkedin](https://www.linkedin.com/in/poonamligade) | [Kaggle](https://www.kaggle.com/poonaml)
-- ⚡ Fun fact: I love playing with my son in my free time. I homeschool him.
+- ⚡ Fun fact: I love playing with my son in my free time. We homeschool him.
