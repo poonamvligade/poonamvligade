@@ -20,4 +20,6 @@ Videos:
 
 [Build and showcase your AI web app on Jarvislabs.ai](https://www.youtube.com/watch?v=5azbbsOK5Wg)
 
+Projects :
+
 [Prehistoric Dinosaur Classifier Webapp Demo](https://notebooksg.jarvislabs.ai/U7mQvWgvra53-YvTogLgJCfNzgJxRJv238Go2bHoAmHBqQFHoOL1ZFeKDG8gYmnO/)
