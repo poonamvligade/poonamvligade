@@ -1,10 +1,25 @@
 ### Hi there! I'm Poonam. :woman_technologist: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 
-I am a computer professional.
+I’m a full-stack developer with 10+ years of experience and a focus on building fast, user-friendly web platforms. Below are highlights from my recent project:
+
+GPU Cloud PaaS Web Platform
+Role: Lead Full-Stack Developer
+Duration: Dec 2019 – Present
+Stack: React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Stripe, Clerk.dev, Cognito, Vercel, Docker
+
+🔹 Features Built:
+🌐 Fully responsive web frontend built with React, Tailwind, and Next.js
+💳 Stripe Checkout integration for payments
+🧠 FastAPI backend handling:
+User authentication (Clerk)
+Instance lifecycle (start, pause, resume, delete)
+Vercel deployments
+🐳 Dockerized backend services
+🧰 CLI tools and bash scripts for debugging + automation
+
 
 - 🔭 I’m currently working on making AI accessible and affordable to masses at [Jarvislabs.ai](https://jarvislabs.ai/).
 - 📝 I blog [here](https://poonamvligade.github.io/).
 - 📫 Follow me on [Twitter](https://twitter.com/Poonamligade) | [Linkedin](https://www.linkedin.com/in/poonamligade) | [Kaggle](https://www.kaggle.com/poonaml)
-
 
 
 
