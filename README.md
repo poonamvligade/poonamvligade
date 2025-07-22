@@ -2,18 +2,27 @@
 I’m a full-stack developer with 10+ years of experience and a focus on building fast, user-friendly web platforms. Below are highlights from my recent project:
 
 GPU Cloud PaaS Web Platform
+
 Role: Lead Full-Stack Developer
+
 Duration: Dec 2019 – Present
+
 Stack: React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Stripe, Clerk.dev, Cognito, Vercel, Docker
 
 🔹 Features Built:
+
 🌐 Fully responsive web frontend built with React, Tailwind, and Next.js
+
 💳 Stripe Checkout integration for payments
-🧠 FastAPI backend handling:
-User authentication (Clerk)
-Instance lifecycle (start, pause, resume, delete)
+
+🧠 FastAPI backend handling
+
+👤 User authentication (Clerk)
+
 Vercel deployments
+
 🐳 Dockerized backend services
+
 🧰 CLI tools and bash scripts for debugging + automation
 
 
