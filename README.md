@@ -1,5 +1,5 @@
 ### Hi there! I'm Poonam. :woman_technologist: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 
-I’m a full-stack developer with 10+ years of experience and a focus on building fast, user-friendly web platforms. Below are highlights from my recent project:
+I’m a full-stack developer, focusing on building fast and user-friendly web platforms. Below are highlights from my recent project:
 
 GPU Cloud PaaS Web Platform
 
