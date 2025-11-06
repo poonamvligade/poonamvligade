@@ -3,7 +3,7 @@ I’m a full-stack developer focused on building fast, user-friendly web platfor
 
 🚀 Current Role — Lead Full-Stack Developer (Dec 2019 – Present) at [Jarvislabs.ai](https://jarvislabs.ai/)
 
-I lead the end-to-end development of a GPU cloud SaaS platform used by ML engineers and research teams. My work spans frontend architecture, backend API design, infrastructure automation, and product delivery. I own the journey from concept to deployment.
+I lead the end-to-end development of a GPU cloud SaaS platform used by ML engineers and research teams. My work spans frontend architecture, backend API design, infrastructure automation, and product delivery. I participated in the journey from concept to deployment along with the founders.
 
 🧩 Frontend Development & UX
 
